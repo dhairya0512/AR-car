@@ -39,6 +39,7 @@ Go to the link: [click here](https://drive.google.com/file/d/1xU2tv7ItEjss9y6Kk9
 
 ## Screenshots
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 ![s1](https://user-images.githubusercontent.com/75428863/227792529-91442c2b-da39-45ce-bdd0-3817c4fce586.jpg =250x250)
 ![s7](https://user-images.githubusercontent.com/75428863/227792555-e1636ef0-3002-4330-b99c-517c28e5e97a.jpg)
 ![s8](https://user-images.githubusercontent.com/75428863/227792556-656313aa-24b0-4a85-9377-be9564c54b82.jpg)
