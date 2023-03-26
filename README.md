@@ -39,18 +39,17 @@ Go to the link: [click here](https://drive.google.com/file/d/1xU2tv7ItEjss9y6Kk9
 
 ## Screenshots
 <p align="center">
-<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width=50% height=50%>
-  </p>
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
-![s1](https://user-images.githubusercontent.com/75428863/227792529-91442c2b-da39-45ce-bdd0-3817c4fce586.jpg =250x250)
-![s7](https://user-images.githubusercontent.com/75428863/227792555-e1636ef0-3002-4330-b99c-517c28e5e97a.jpg)
-![s8](https://user-images.githubusercontent.com/75428863/227792556-656313aa-24b0-4a85-9377-be9564c54b82.jpg)
-![s2](https://user-images.githubusercontent.com/75428863/227792558-754396bc-fd6d-4d1e-90a0-3801fefae90c.jpg)
-![s3](https://user-images.githubusercontent.com/75428863/227792559-a39225a1-20e0-4f46-aeea-b6340a1552f0.jpg)
-![s4](https://user-images.githubusercontent.com/75428863/227792561-26293958-5bb2-4503-9f59-ebe65d0b5e9d.jpg)
-![s5](https://user-images.githubusercontent.com/75428863/227792562-b60e95ff-77c4-4e11-a897-7e9d01ed81fd.jpg)
-![s6](https://user-images.githubusercontent.com/75428863/227792564-aa69fe95-7433-4ce4-9eb4-31106c38baf4.jpg)
+<img src="https://user-images.githubusercontent.com/75428863/227792529-91442c2b-da39-45ce-bdd0-3817c4fce586.jpg" width=80% height=80%>
+<img src="https://user-images.githubusercontent.com/75428863/227792555-e1636ef0-3002-4330-b99c-517c28e5e97a.jpg" width=80% height=80%>
+<img src="https://user-images.githubusercontent.com/75428863/227792556-656313aa-24b0-4a85-9377-be9564c54b82.jpg" width=80% height=80%>
+<img src="https://user-images.githubusercontent.com/75428863/227792558-754396bc-fd6d-4d1e-90a0-3801fefae90c.jpg" width=80% height=80%>
+<img src="https://user-images.githubusercontent.com/75428863/227792559-a39225a1-20e0-4f46-aeea-b6340a1552f0.jpg" width=80% height=80%>
+<img src="https://user-images.githubusercontent.com/75428863/227792561-26293958-5bb2-4503-9f59-ebe65d0b5e9d.jpg" width=80% height=80%>
+<img src="https://user-images.githubusercontent.com/75428863/227792562-b60e95ff-77c4-4e11-a897-7e9d01ed81fd.jpg" width=80% height=80%>
+<img src="https://user-images.githubusercontent.com/75428863/227792564-aa69fe95-7433-4ce4-9eb4-31106c38baf4.jpg" width=80% height=80%>
+
+
+</p>
 
 ## FAQ
 
