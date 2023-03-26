@@ -38,7 +38,9 @@ Go to the link: [click here](https://drive.google.com/file/d/1xU2tv7ItEjss9y6Kk9
 
 
 ## Screenshots
+<p align="center">
 <img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width=50% height=50%>
+  </p>
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 ![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
 ![s1](https://user-images.githubusercontent.com/75428863/227792529-91442c2b-da39-45ce-bdd0-3817c4fce586.jpg =250x250)
