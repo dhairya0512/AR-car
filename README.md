@@ -39,7 +39,7 @@ Go to the link: [click here](https://drive.google.com/file/d/1xU2tv7ItEjss9y6Kk9
 
 ## Screenshots
 <p align="center">
-<img src="https://user-images.githubusercontent.com/75428863/227792529-91442c2b-da39-45ce-bdd0-3817c4fce586.jpg" width=80% height=80%><br><br><br>
+
 <img src="https://user-images.githubusercontent.com/75428863/227792555-e1636ef0-3002-4330-b99c-517c28e5e97a.jpg" width=80% height=80%><br>
   <br><br>
 <img src="https://user-images.githubusercontent.com/75428863/227792556-656313aa-24b0-4a85-9377-be9564c54b82.jpg" width=80% height=80%><br>
@@ -54,7 +54,9 @@ Go to the link: [click here](https://drive.google.com/file/d/1xU2tv7ItEjss9y6Kk9
   <br><br>
 <img src="https://user-images.githubusercontent.com/75428863/227792564-aa69fe95-7433-4ce4-9eb4-31106c38baf4.jpg" width=80% height=80%><br>
   <br><br>
-
+  <p>  If user tries to use the application at dark environment then application prompts user to move in a area where there is ample amount of light coming, so as to maointain the tracking.
+</p>
+<img src="https://user-images.githubusercontent.com/75428863/227792529-91442c2b-da39-45ce-bdd0-3817c4fce586.jpg" width=80% height=80%><br><br><br>
 
 </p>
 
