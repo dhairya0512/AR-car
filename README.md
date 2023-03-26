@@ -39,7 +39,7 @@ Go to the link: [click here](https://drive.google.com/file/d/1xU2tv7ItEjss9y6Kk9
 
 ## Screenshots
 
-![s1](https://user-images.githubusercontent.com/75428863/227792529-91442c2b-da39-45ce-bdd0-3817c4fce586.jpg| width=100)
+![s1](https://user-images.githubusercontent.com/75428863/227792529-91442c2b-da39-45ce-bdd0-3817c4fce586.jpg =250x250)
 ![s7](https://user-images.githubusercontent.com/75428863/227792555-e1636ef0-3002-4330-b99c-517c28e5e97a.jpg)
 ![s8](https://user-images.githubusercontent.com/75428863/227792556-656313aa-24b0-4a85-9377-be9564c54b82.jpg)
 ![s2](https://user-images.githubusercontent.com/75428863/227792558-754396bc-fd6d-4d1e-90a0-3801fefae90c.jpg)
